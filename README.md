@@ -1,6 +1,6 @@
 ## Hi, I'm Lucas 🪔📜🪶
 
-[Website](http://www.lucasgfreeman.com) | [CV](https://www.lucasgfreeman.com/s/LGFreeman_Data_Resume_2026.pdf) | [LinkedIn](http://www.linkedin.com/in/lucasgfreeman) | [Kaggle](https://www.kaggle.com/lucasgfreeman) | [Tableau](https://public.tableau.com/app/profile/lucas.freeman6945/vizzes) | [Instagram](http://www.instagram.com/lucasgfreeman) | [Goodreads](https://www.goodreads.com/lucasgfreeman) | [YouTube](http://www.youtube.com/lucasgfreeman) | [Twitch](http://www.twitch.tv/lucasgfreeman)
+[Website](http://www.lucasgfreeman.com) | [CV](https://github.com/lucasgfreeman/lucasgfreeman/blob/main/LGFreeman_Resume_2026.pdf) | [LinkedIn](http://www.linkedin.com/in/lucasgfreeman) | [Kaggle](https://www.kaggle.com/lucasgfreeman) | [Tableau](https://public.tableau.com/app/profile/lucas.freeman6945/vizzes) | [Instagram](http://www.instagram.com/lucasgfreeman) | [Goodreads](https://www.goodreads.com/lucasgfreeman) | [YouTube](http://www.youtube.com/lucasgfreeman) | [Twitch](http://www.twitch.tv/lucasgfreeman)
 
 <!--
 **lucasgfreeman/lucasgfreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

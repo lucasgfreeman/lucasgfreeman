@@ -31,17 +31,26 @@ My main areas of interest are:
 
 ---
 ## 🔭  I’m currently working on ...
-- 📊 **Data Analytics and Data Science** — I've completed the Google Data Analytics Professional Certificate, and am now working on the advanced certificate to expand my proficiency in SQL, Python, BigQuery, Excel, Google Sheets, Kaggle/Jupyter, Tableau, Power BI, and GitHub. I've also worked with HTML, CSS, JavaScript, LaTeX, and OBS Studio.
+- 📊 **Data Analytics and Data Science** — I've completed the Google Data Analytics Professional Certificate, and am now working on the advanced certificate to expand my proficiency in SQL, Python, BigQuery, Excel, Google Sheets, Kaggle/Jupyter, Tableau, Power BI, and GitHub. 🌱 **I am open to opportunities to work further with real-world datasets.**
+<!-- I've also worked with HTML, CSS, JavaScript, LaTeX, and OBS Studio.-->
 
-- 📖 ***Where Demons Pray and Angels Lie*** — A dark epic fantasy following a demonologist, a mercenary, and three rogue healers who uncover a deadly conspiracy at the heart of a theocratic empire. The book is complete and I am now in process of finding representation/publication. You can find more information on my website at [LucasGFreeman.com](http://www.lucasgfreeman.com).
+- 🕯️ ***Where Demons Pray and Angels Lie*** — A dark epic fantasy following a demonologist, a mercenary, and three rogue healers who uncover a deadly conspiracy at the heart of a theocratic empire. The book is complete and I am now in process of finding representation/publication. You can find more information on my website at [LucasGFreeman.com](http://www.lucasgfreeman.com).
 
 - ☕ **Bookstore Café** — Since running a successful online store in college and selling books for B&N, I've long entertained the possibility of opening my own brick-and-mortar shop. I have an initial inventory, which I've analyzed here → [Bookstore inventory capstone project](https://github.com/lucasgfreeman/bookstore_inventory_analysis). I've also practiced some [coffee shop revenue analysis](https://github.com/lucasgfreeman/coffeeshop-revenue-analysis) on a Kaggle dataset using Python.
 
 ---
-## 🧭 Credo
-- Though artificial intelligence has become an integral part of data analytics, I firmly oppose the use of generative AI in creative endeavors such as art, music, writing, and voice work. As a novelist, I will protect my work and that of other artists. I believe there is no substitute for human creativity, and no justification for taking income from those who create with their soul.
+## 🌐 Overview
+- 🩺 I started my veterinary career at a small general practice in 2008. After four years as technician supervisor, I moved to the Nashville area in 2015 and joined a veterinary speciality practice in the ER and then in Internal Medicine. I spent one year as an IM technician in Cincinnati in 2021, and then returned to the Nashville practice were I served as Team Lead in Neurology, MRI Training Director, Laboratory Manager, and Radioiodine (I-131) Program Coordinator. Between MRI, CT, laboratory, and radiation monitoring, I came to further appreciate diagnostic and patient data.
+ 
+- 🧬 My **first primary data role** was at George Mason University where I collected, cleaned, and entered study data (CPAP, MRI, APOE-ε4 genotyping) and maintained data security for a three-year, multisite study on obstructive sleep apnea and cognitive decline in older adults. I also assisted with subject recruitment and neuropsychological assessment. → [It was rewarding to be a part of this!](https://clinicaltrials.gov/study/NCT01482351?tab=study)
+  
+- 💼 Prior to all this, I'd worked as a bookseller, barista, and personal trainer. I've also done English and software editing for the National Foreign Language Center, and taught two sections of Strength and Conditioning (HEA100) at UMaine.
 
-<!-- MRI, CT, laboratory, radioactivity .. This is how I came to appreciate patient and diagnostic data -->
+<!--
+## 🧭 Credo
+- Though artificial intelligence has become an integral part of data analytics, I firmly oppose the use of generative AI in creative endeavors such as art, music, writing, and voice work. As a novelist, I will protect my work and that of other artists. I believe there is no substitute for human creativity, and no justification for taking income from those who create with their soul. -->
+
+
 
 <!-- On my nightstand: *The Eye of the World* by Robert Jordan, *Niccolò Rising* by Dorothy Dunnet; *The Gun Seller* by Hugh Laurie
 On my playlist: *Too Sweet* by Hozier, *Tennessee Whiskey* by Chris Stapleton

@@ -51,7 +51,7 @@ My main areas of interest are:
 
 - 👟 Through college I'd worked as a bookseller, barista, and personal trainer. I've also edited English documents and software for the National Foreign Language Center, and taught two sections of Strength and Conditioning (HEA100) at UMaine.
 ---
-## 💬 Let's connect ...
+## 🗨️ Let's connect ...
 
 - 💡 Share my love for data? Let's talk!
   

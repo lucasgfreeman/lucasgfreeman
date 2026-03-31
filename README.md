@@ -59,7 +59,7 @@ My main areas of interest are:
 ---
 ## 🦉 Bonus facts
 
-- 🏹 I released my first fantasy novel, *Book & Bone*, in 2020. More about this can be found on my [website](http://www.lucasgfreeman.com), [Goodreads](https://www.goodreads.com/lucasgfreeman), and [Amazon](https://www.amazon.com/stores/author/B08L7XB7F9) page.
+- 🏹 I released my first fantasy novel, *Book & Bone*, in 2020. More can be found on my [website](http://www.lucasgfreeman.com), [Goodreads](https://www.goodreads.com/lucasgfreeman), and [Amazon](https://www.amazon.com/stores/author/B08L7XB7F9) page.
   
 - 🅰️ I'm an international Scrabble expert who represented the U.S. at the [2016 World Scrabble Championship](https://en.wikipedia.org/wiki/World_Scrabble_Championship_2016) in Lille, France.
 

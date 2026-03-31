@@ -33,9 +33,11 @@ My main areas of interest are:
 
 - 📖 ***Where Demons Pray and Angels Lie*** — A dark epic fantasy following a demonologist, a mercenary, and three rogue healers who uncover a deadly conspiracy at the heart of a theocratic empire. The book is complete and I am now in process of finding representation/publication. You can find more information on my website at [LucasGFreeman.com](http://www.lucasgfreeman.com).
 
-- ☕ **Bookstore Café** — Since running successful online store in college and selling books for B&N, and I've long explored the possibility of opening my own brick-and-mortar shop. I have an initial inventory, which I've analyzed here → [Bookstore inventory capstone project](https://github.com/lucasgfreeman/bookstore_inventory_analysis). I've also practiced some [coffee shop revenue analysis](https://github.com/lucasgfreeman/coffeeshop-revenue-analysis) on a Kaggle dataset using Python.
+- ☕ **Bookstore Café** — Since running successful online store in college and selling books for B&N, I've long explored the possibility of opening my own brick-and-mortar shop. I have an initial inventory, which I've analyzed here → [Bookstore inventory capstone project](https://github.com/lucasgfreeman/bookstore_inventory_analysis). I've also practiced some [coffee shop revenue analysis](https://github.com/lucasgfreeman/coffeeshop-revenue-analysis) on a Kaggle dataset using Python.
 
-<!--  and AI-assisted analysis (I remain STAUNCHLY opposed to the use of AI in creative endeavors such as art, music,and writing. There is NO replacement for the human soul). -->
+<!--  Though I've used and AI-assisted analysis (I remain STAUNCHLY opposed to the use of AI in creative endeavors such as art, music, voice work, and writing. There is NO replacement for the human soul). --!>
+<!-- MRI, CT, laboratory, radioactivity .. This is how I came to appreciate patient and diagnostic data --!>
+
 
 ---
 
